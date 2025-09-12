@@ -1,0 +1,30 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/C# examples/FileContentIndex
+/Alloperator/bin/Debug/net8.0
+/Alloperator/obj
+/Array/bin/Debug/net8.0
+/Array/obj
+/Boolean/bin/Debug/net8.0
+/Boolean/obj
+/BreakContinue/bin/Debug/net8.0
+/BreakContinue/obj
+/DataTypes/bin/Debug/net8.0
+/DataTypes/obj
+/For&foreach/bin/Debug/net8.0
+/For&foreach/obj
+/Ifelseif/bin/Debug/net8.0
+/Ifelseif/obj
+/Math/bin/Debug/net8.0
+/Math/obj
+/Operators/obj
+/String/bin/Debug/net8.0
+/String/obj
+/Switch/bin/Debug/net8.0
+/Switch/obj
+/Type casting/bin/Debug/net8.0
+/Type casting/obj
+/whiledowhile/bin/Debug/net8.0
+/whiledowhile/obj
