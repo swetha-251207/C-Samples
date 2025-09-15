@@ -1,0 +1,15 @@
+D:\code\C-Samples\ConcurrencyCollection\bin\Debug\net8.0\ConcurrencyCollection.exe
+D:\code\C-Samples\ConcurrencyCollection\bin\Debug\net8.0\ConcurrencyCollection.deps.json
+D:\code\C-Samples\ConcurrencyCollection\bin\Debug\net8.0\ConcurrencyCollection.runtimeconfig.json
+D:\code\C-Samples\ConcurrencyCollection\bin\Debug\net8.0\ConcurrencyCollection.dll
+D:\code\C-Samples\ConcurrencyCollection\bin\Debug\net8.0\ConcurrencyCollection.pdb
+D:\code\C-Samples\ConcurrencyCollection\obj\Debug\net8.0\ConcurrencyCollection.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\C-Samples\ConcurrencyCollection\obj\Debug\net8.0\ConcurrencyCollection.AssemblyInfoInputs.cache
+D:\code\C-Samples\ConcurrencyCollection\obj\Debug\net8.0\ConcurrencyCollection.AssemblyInfo.cs
+D:\code\C-Samples\ConcurrencyCollection\obj\Debug\net8.0\ConcurrencyCollection.csproj.CoreCompileInputs.cache
+D:\code\C-Samples\ConcurrencyCollection\obj\Debug\net8.0\ConcurrencyCollection.sourcelink.json
+D:\code\C-Samples\ConcurrencyCollection\obj\Debug\net8.0\ConcurrencyCollection.dll
+D:\code\C-Samples\ConcurrencyCollection\obj\Debug\net8.0\refint\ConcurrencyCollection.dll
+D:\code\C-Samples\ConcurrencyCollection\obj\Debug\net8.0\ConcurrencyCollection.pdb
+D:\code\C-Samples\ConcurrencyCollection\obj\Debug\net8.0\ConcurrencyCollection.genruntimeconfig.cache
+D:\code\C-Samples\ConcurrencyCollection\obj\Debug\net8.0\ref\ConcurrencyCollection.dll

@@ -1,0 +1,15 @@
+D:\code\C-Samples\GenericCollection\bin\Debug\net8.0\GenericCollection.exe
+D:\code\C-Samples\GenericCollection\bin\Debug\net8.0\GenericCollection.deps.json
+D:\code\C-Samples\GenericCollection\bin\Debug\net8.0\GenericCollection.runtimeconfig.json
+D:\code\C-Samples\GenericCollection\bin\Debug\net8.0\GenericCollection.dll
+D:\code\C-Samples\GenericCollection\bin\Debug\net8.0\GenericCollection.pdb
+D:\code\C-Samples\GenericCollection\obj\Debug\net8.0\GenericCollection.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\C-Samples\GenericCollection\obj\Debug\net8.0\GenericCollection.AssemblyInfoInputs.cache
+D:\code\C-Samples\GenericCollection\obj\Debug\net8.0\GenericCollection.AssemblyInfo.cs
+D:\code\C-Samples\GenericCollection\obj\Debug\net8.0\GenericCollection.csproj.CoreCompileInputs.cache
+D:\code\C-Samples\GenericCollection\obj\Debug\net8.0\GenericCollection.sourcelink.json
+D:\code\C-Samples\GenericCollection\obj\Debug\net8.0\GenericCollection.dll
+D:\code\C-Samples\GenericCollection\obj\Debug\net8.0\refint\GenericCollection.dll
+D:\code\C-Samples\GenericCollection\obj\Debug\net8.0\GenericCollection.pdb
+D:\code\C-Samples\GenericCollection\obj\Debug\net8.0\GenericCollection.genruntimeconfig.cache
+D:\code\C-Samples\GenericCollection\obj\Debug\net8.0\ref\GenericCollection.dll

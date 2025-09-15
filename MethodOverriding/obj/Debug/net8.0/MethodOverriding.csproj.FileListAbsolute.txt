@@ -1,0 +1,15 @@
+D:\code\C-Samples\MethodOverriding\bin\Debug\net8.0\MethodOverriding.exe
+D:\code\C-Samples\MethodOverriding\bin\Debug\net8.0\MethodOverriding.deps.json
+D:\code\C-Samples\MethodOverriding\bin\Debug\net8.0\MethodOverriding.runtimeconfig.json
+D:\code\C-Samples\MethodOverriding\bin\Debug\net8.0\MethodOverriding.dll
+D:\code\C-Samples\MethodOverriding\bin\Debug\net8.0\MethodOverriding.pdb
+D:\code\C-Samples\MethodOverriding\obj\Debug\net8.0\MethodOverriding.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\C-Samples\MethodOverriding\obj\Debug\net8.0\MethodOverriding.AssemblyInfoInputs.cache
+D:\code\C-Samples\MethodOverriding\obj\Debug\net8.0\MethodOverriding.AssemblyInfo.cs
+D:\code\C-Samples\MethodOverriding\obj\Debug\net8.0\MethodOverriding.csproj.CoreCompileInputs.cache
+D:\code\C-Samples\MethodOverriding\obj\Debug\net8.0\MethodOverriding.sourcelink.json
+D:\code\C-Samples\MethodOverriding\obj\Debug\net8.0\MethodOverriding.dll
+D:\code\C-Samples\MethodOverriding\obj\Debug\net8.0\refint\MethodOverriding.dll
+D:\code\C-Samples\MethodOverriding\obj\Debug\net8.0\MethodOverriding.pdb
+D:\code\C-Samples\MethodOverriding\obj\Debug\net8.0\MethodOverriding.genruntimeconfig.cache
+D:\code\C-Samples\MethodOverriding\obj\Debug\net8.0\ref\MethodOverriding.dll

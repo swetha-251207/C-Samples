@@ -1,0 +1,15 @@
+D:\code\C-Samples\ClassOops\bin\Debug\net8.0\ClassOops.exe
+D:\code\C-Samples\ClassOops\bin\Debug\net8.0\ClassOops.deps.json
+D:\code\C-Samples\ClassOops\bin\Debug\net8.0\ClassOops.runtimeconfig.json
+D:\code\C-Samples\ClassOops\bin\Debug\net8.0\ClassOops.dll
+D:\code\C-Samples\ClassOops\bin\Debug\net8.0\ClassOops.pdb
+D:\code\C-Samples\ClassOops\obj\Debug\net8.0\ClassOops.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\C-Samples\ClassOops\obj\Debug\net8.0\ClassOops.AssemblyInfoInputs.cache
+D:\code\C-Samples\ClassOops\obj\Debug\net8.0\ClassOops.AssemblyInfo.cs
+D:\code\C-Samples\ClassOops\obj\Debug\net8.0\ClassOops.csproj.CoreCompileInputs.cache
+D:\code\C-Samples\ClassOops\obj\Debug\net8.0\ClassOops.sourcelink.json
+D:\code\C-Samples\ClassOops\obj\Debug\net8.0\ClassOops.dll
+D:\code\C-Samples\ClassOops\obj\Debug\net8.0\refint\ClassOops.dll
+D:\code\C-Samples\ClassOops\obj\Debug\net8.0\ClassOops.pdb
+D:\code\C-Samples\ClassOops\obj\Debug\net8.0\ClassOops.genruntimeconfig.cache
+D:\code\C-Samples\ClassOops\obj\Debug\net8.0\ref\ClassOops.dll

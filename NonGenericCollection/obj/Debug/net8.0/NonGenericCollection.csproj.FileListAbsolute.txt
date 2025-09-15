@@ -1,0 +1,15 @@
+D:\code\C-Samples\NonGenericCollection\bin\Debug\net8.0\NonGenericCollection.exe
+D:\code\C-Samples\NonGenericCollection\bin\Debug\net8.0\NonGenericCollection.deps.json
+D:\code\C-Samples\NonGenericCollection\bin\Debug\net8.0\NonGenericCollection.runtimeconfig.json
+D:\code\C-Samples\NonGenericCollection\bin\Debug\net8.0\NonGenericCollection.dll
+D:\code\C-Samples\NonGenericCollection\bin\Debug\net8.0\NonGenericCollection.pdb
+D:\code\C-Samples\NonGenericCollection\obj\Debug\net8.0\NonGenericCollection.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\C-Samples\NonGenericCollection\obj\Debug\net8.0\NonGenericCollection.AssemblyInfoInputs.cache
+D:\code\C-Samples\NonGenericCollection\obj\Debug\net8.0\NonGenericCollection.AssemblyInfo.cs
+D:\code\C-Samples\NonGenericCollection\obj\Debug\net8.0\NonGenericCollection.csproj.CoreCompileInputs.cache
+D:\code\C-Samples\NonGenericCollection\obj\Debug\net8.0\NonGenericCollection.sourcelink.json
+D:\code\C-Samples\NonGenericCollection\obj\Debug\net8.0\NonGenericCollection.dll
+D:\code\C-Samples\NonGenericCollection\obj\Debug\net8.0\refint\NonGenericCollection.dll
+D:\code\C-Samples\NonGenericCollection\obj\Debug\net8.0\NonGenericCollection.pdb
+D:\code\C-Samples\NonGenericCollection\obj\Debug\net8.0\NonGenericCollection.genruntimeconfig.cache
+D:\code\C-Samples\NonGenericCollection\obj\Debug\net8.0\ref\NonGenericCollection.dll

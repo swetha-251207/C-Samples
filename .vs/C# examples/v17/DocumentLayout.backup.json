@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code\\C-Samples\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20109749-63F2-4E9F-BFD8-AB947BB7B146}|EncapsulationOops\\EncapsulationOops.csproj|d:\\code\\c-samples\\encapsulationoops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20109749-63F2-4E9F-BFD8-AB947BB7B146}|EncapsulationOops\\EncapsulationOops.csproj|solutionrelative:encapsulationoops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C458D4-3223-418A-9F46-F361D3FB42C5}|ConstructorOops\\ConstructorOops.csproj|d:\\code\\c-samples\\constructoroops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C458D4-3223-418A-9F46-F361D3FB42C5}|ConstructorOops\\ConstructorOops.csproj|solutionrelative:constructoroops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B860C44-0656-4335-8838-73CC78615808}|ClassOops\\ClassOops.csproj|d:\\code\\c-samples\\classoops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B860C44-0656-4335-8838-73CC78615808}|ClassOops\\ClassOops.csproj|solutionrelative:classoops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC77DBE-E617-454F-9B38-76A63823972C}|MethodOverriding\\MethodOverriding.csproj|d:\\code\\c-samples\\methodoverriding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CC77DBE-E617-454F-9B38-76A63823972C}|MethodOverriding\\MethodOverriding.csproj|solutionrelative:methodoverriding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1834C1F-2664-4A93-B570-AB602E99A010}|MethodOverloading\\MethodOverloading.csproj|d:\\code\\c-samples\\methodoverloading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1834C1F-2664-4A93-B570-AB602E99A010}|MethodOverloading\\MethodOverloading.csproj|solutionrelative:methodoverloading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{955D55FC-D5C1-43B1-B06D-6079F776D2CE}|GenericCollection\\GenericCollection.csproj|d:\\code\\c-samples\\genericcollection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{955D55FC-D5C1-43B1-B06D-6079F776D2CE}|GenericCollection\\GenericCollection.csproj|solutionrelative:genericcollection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD1ACE59-FA10-4D31-A4BD-ED0D3AC99A9D}|NonGenericCollection\\NonGenericCollection.csproj|d:\\code\\c-samples\\nongenericcollection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD1ACE59-FA10-4D31-A4BD-ED0D3AC99A9D}|NonGenericCollection\\NonGenericCollection.csproj|solutionrelative:nongenericcollection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C241595-4F06-49AE-BD87-2A3FC336949C}|ConcurrencyCollection\\ConcurrencyCollection.csproj|d:\\code\\c-samples\\concurrencycollection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C241595-4F06-49AE-BD87-2A3FC336949C}|ConcurrencyCollection\\ConcurrencyCollection.csproj|solutionrelative:concurrencycollection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A528D76-A600-48A3-8DD8-DB0C97186090}|Method\\Method.csproj|d:\\code\\c-samples\\method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A528D76-A600-48A3-8DD8-DB0C97186090}|Method\\Method.csproj|solutionrelative:method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5423F684-7469-4497-ACD3-E2EAF0AF0895}|DataTypes\\DataTypes.csproj|d:\\code\\c-samples\\datatypes\\datatypes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5423F684-7469-4497-ACD3-E2EAF0AF0895}|DataTypes\\DataTypes.csproj|solutionrelative:datatypes\\datatypes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522C37C3-8A5E-40E0-AA53-E92DDEF4C003}|Array\\Array.csproj|d:\\code\\c-samples\\array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522C37C3-8A5E-40E0-AA53-E92DDEF4C003}|Array\\Array.csproj|solutionrelative:array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\code\\C-Samples\\EncapsulationOops\\Program.cs",
+              "RelativeDocumentMoniker": "EncapsulationOops\\Program.cs",
+              "ToolTip": "D:\\code\\C-Samples\\EncapsulationOops\\Program.cs",
+              "RelativeToolTip": "EncapsulationOops\\Program.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAwDQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T11:52:59.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\code\\C-Samples\\ConstructorOops\\Program.cs",
+              "RelativeDocumentMoniker": "ConstructorOops\\Program.cs",
+              "ToolTip": "D:\\code\\C-Samples\\ConstructorOops\\Program.cs",
+              "RelativeToolTip": "ConstructorOops\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T11:44:18.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\code\\C-Samples\\ClassOops\\Program.cs",
+              "RelativeDocumentMoniker": "ClassOops\\Program.cs",
+              "ToolTip": "D:\\code\\C-Samples\\ClassOops\\Program.cs",
+              "RelativeToolTip": "ClassOops\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T11:35:22.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\code\\C-Samples\\MethodOverriding\\Program.cs",
+              "RelativeDocumentMoniker": "MethodOverriding\\Program.cs",
+              "ToolTip": "D:\\code\\C-Samples\\MethodOverriding\\Program.cs",
+              "RelativeToolTip": "MethodOverriding\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T10:02:04.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\code\\C-Samples\\MethodOverloading\\Program.cs",
+              "RelativeDocumentMoniker": "MethodOverloading\\Program.cs",
+              "ToolTip": "D:\\code\\C-Samples\\MethodOverloading\\Program.cs",
+              "RelativeToolTip": "MethodOverloading\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T09:55:59.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\code\\C-Samples\\Method\\Program.cs",
+              "RelativeDocumentMoniker": "Method\\Program.cs",
+              "ToolTip": "D:\\code\\C-Samples\\Method\\Program.cs",
+              "RelativeToolTip": "Method\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T09:36:14.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\code\\C-Samples\\ConcurrencyCollection\\Program.cs",
+              "RelativeDocumentMoniker": "ConcurrencyCollection\\Program.cs",
+              "ToolTip": "D:\\code\\C-Samples\\ConcurrencyCollection\\Program.cs",
+              "RelativeToolTip": "ConcurrencyCollection\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T08:08:39.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\code\\C-Samples\\NonGenericCollection\\Program.cs",
+              "RelativeDocumentMoniker": "NonGenericCollection\\Program.cs",
+              "ToolTip": "D:\\code\\C-Samples\\NonGenericCollection\\Program.cs",
+              "RelativeToolTip": "NonGenericCollection\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T07:54:11.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\code\\C-Samples\\GenericCollection\\Program.cs",
+              "RelativeDocumentMoniker": "GenericCollection\\Program.cs",
+              "ToolTip": "D:\\code\\C-Samples\\GenericCollection\\Program.cs",
+              "RelativeToolTip": "GenericCollection\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T07:41:33.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DataTypes.csproj",
+              "DocumentMoniker": "D:\\code\\C-Samples\\DataTypes\\DataTypes.csproj",
+              "RelativeDocumentMoniker": "DataTypes\\DataTypes.csproj",
+              "ToolTip": "D:\\code\\C-Samples\\DataTypes\\DataTypes.csproj",
+              "RelativeToolTip": "DataTypes\\DataTypes.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-12T13:51:54.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\code\\C-Samples\\Array\\Program.cs",
+              "RelativeDocumentMoniker": "Array\\Program.cs",
+              "ToolTip": "D:\\code\\C-Samples\\Array\\Program.cs",
+              "RelativeToolTip": "Array\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T13:22:01.507Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

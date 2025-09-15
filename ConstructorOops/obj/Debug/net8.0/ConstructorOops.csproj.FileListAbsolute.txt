@@ -1,0 +1,15 @@
+D:\code\C-Samples\ConstructorOops\bin\Debug\net8.0\ConstructorOops.exe
+D:\code\C-Samples\ConstructorOops\bin\Debug\net8.0\ConstructorOops.deps.json
+D:\code\C-Samples\ConstructorOops\bin\Debug\net8.0\ConstructorOops.runtimeconfig.json
+D:\code\C-Samples\ConstructorOops\bin\Debug\net8.0\ConstructorOops.dll
+D:\code\C-Samples\ConstructorOops\bin\Debug\net8.0\ConstructorOops.pdb
+D:\code\C-Samples\ConstructorOops\obj\Debug\net8.0\ConstructorOops.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\C-Samples\ConstructorOops\obj\Debug\net8.0\ConstructorOops.AssemblyInfoInputs.cache
+D:\code\C-Samples\ConstructorOops\obj\Debug\net8.0\ConstructorOops.AssemblyInfo.cs
+D:\code\C-Samples\ConstructorOops\obj\Debug\net8.0\ConstructorOops.csproj.CoreCompileInputs.cache
+D:\code\C-Samples\ConstructorOops\obj\Debug\net8.0\ConstructorOops.sourcelink.json
+D:\code\C-Samples\ConstructorOops\obj\Debug\net8.0\ConstructorOops.dll
+D:\code\C-Samples\ConstructorOops\obj\Debug\net8.0\refint\ConstructorOops.dll
+D:\code\C-Samples\ConstructorOops\obj\Debug\net8.0\ConstructorOops.pdb
+D:\code\C-Samples\ConstructorOops\obj\Debug\net8.0\ConstructorOops.genruntimeconfig.cache
+D:\code\C-Samples\ConstructorOops\obj\Debug\net8.0\ref\ConstructorOops.dll
